@@ -1,0 +1,16 @@
+{
+  "lookback": 12,
+  "n_features": 8,
+  "feature_cols": [
+    "total_amount",
+    "jumlah_trx",
+    "rata_rata",
+    "std_amount",
+    "month_sin",
+    "month_cos",
+    "rolling_3",
+    "rolling_6"
+  ],
+  "mape": 9.4076,
+  "accuracy": 90.5924
+}
